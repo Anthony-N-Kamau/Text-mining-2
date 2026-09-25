@@ -109,7 +109,3 @@ Open `text-mining-2.Rmd` in RStudio and knit to PDF or HTML:
 ```r
 rmarkdown::render("text-mining-2.Rmd")
 ```
-
-## Author
-
-Anthony Kamau
